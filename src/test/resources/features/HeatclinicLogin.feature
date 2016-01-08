@@ -15,5 +15,9 @@ Feature: Broadleaf Commerce Login Functionality
     And Click login
 
     
+    And Click login
+    And Click login
+    And Click login
+    And Click login
     
     
